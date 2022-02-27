@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Madam, ever since I had a resolution to make a change in my life by marriage ...</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81922</idno>
+            <idno type="STC">Wing D2871</idno>
+            <idno type="STC">Thomason E288_14</idno>
+            <idno type="EEBO-CITATION">99860904</idno>
+            <idno type="PROQUEST">99860904</idno>
+            <idno type="VID">158568</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158568)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[14b])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Madam, ever since I had a resolution to make a change in my life by marriage ...</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Dury by Wing.</note>
+                  <note>Title from opening words of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Dated at end: 5 May, New-stile, 1645.</note>
+                  <note>Concerning Dury's marriage.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With: Although my former freedom in writing might rather give me occasion to beg pardon for a fault committed ... / [by John Dury. London : s.n., 1645].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dury, John, 1596-1680. --  Early works to 1800.</term>
+               <term>Ranelagh, --  Lady --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:158568:1"/>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>EVer ſince I had a reſolution to make a change in my life by Marriage, I have had thoughts of declaring my Reaſons for it; partly, becauſe I believed all would not be ſatisfied with it; and partly, that all might ſee. I deſire to walke openly and in the light, which, I conceive, is everie true Chriſtians dutie; but hitherto I could not attaine the fulfilling of my purpoſe through continuall diſtractions, yet now in ſome meaſure I hope to reach it.</p>
+            <p>Your Ladyſhip knowes, we have a command in the Goſ<g ref="char:EOLhyphen"/>pel, that all things ſhould be done to Edification; and accor<g ref="char:EOLhyphen"/>ding to this Rule, all that are faithfull ſubjects of Chriſts Kingdome ought to order all their actions, to the end, that all might be built up in the knowledge of their dutie, by the prudent and Godly example one of another, and none of<g ref="char:EOLhyphen"/>fended. And I may ſay truely, that by this Rule I have aimed to walke, that God might be honoured by all the underta<g ref="char:EOLhyphen"/>kings and circumſtances of my life. But as juſtly can I ſay, that my heart accuſeth me of a careleſſe obſervance and pur<g ref="char:EOLhyphen"/>ſuing this aime; and therefore, the juſtice of God may ſuffer my beſt actions to be miſtaken and ſo deprive me of the com<g ref="char:EOLhyphen"/>fort of ſeeing others informed or ſtrengthned by my walke: Something of that nature, (I meane miſunderſtanding) I find in the apprehenſions of people concerning my late Marriage; and therefore I doe the more willingly take occaſion to lay down the Reaſon of my change from a ſingle life (which con<g ref="char:EOLhyphen"/>dition my inclinations preferred before the other incompara<g ref="char:EOLhyphen"/>bly) with great deſires, that if the Lord judge it their bene<g ref="char:EOLhyphen"/>fit, he would bleſſe my diſcourſe with giving them a right underſtanding of thoſe Principles, by which I ſee it ne<g ref="char:EOLhyphen"/>ceſſarie that my actions ſhould be governed.</p>
+            <p>
+               <hi>Madam,</hi> you know the End of our being is Gods glory, and that the ſame, and no leſſe, ſhould be the End of everie
+<pb n="2" facs="tcp:158568:2"/> action of a Chriſtians life, and conſequently of Marriage: con<g ref="char:EOLhyphen"/>cerning which, that <hi>I</hi> may ſpeake diſtinctly and freely, <hi>I</hi> will tell what <hi>I</hi> apprehend it to be, and then what <hi>I</hi> con<g ref="char:EOLhyphen"/>ceive everie lively Member of Chriſt ſhould aime at, in en<g ref="char:EOLhyphen"/>tring upon that ſtate. For Marriage, <hi>I</hi> take it to be a ſolemne &amp; publike Covenant between two, inſtituted by God himſelf, from whoſe intention in his inſtitution wee muſt diſcover the ſecond thing, which is, what the Aime of a true Chriſtian ought to be, in making that Covenant with another.</p>
+            <p>The laſt and chiefe End of God in this inſtitution (as <hi>I</hi> con<g ref="char:EOLhyphen"/>ceive) was that which he propoſed in the Creation and Go<g ref="char:EOLhyphen"/>verning of all things, <hi>viz.</hi> his owne Glorie, which he wills to manifeſt, as well in this inſtitution as in other acts of his Pro<g ref="char:EOLhyphen"/>vidence, by declaring his goodneſſe to his Creatures; which Goodneſſe is declared by ordaining a ſpeciall way for them, to be a helpe one to another for the advancing of his King<g ref="char:EOLhyphen"/>dome in their owne ſpirits, that they may advance it in others, upon which followes their Eternall happineſſe, and alſo by making them a comfort one to another in this life, by diſcer<g ref="char:EOLhyphen"/>ning themſelves a helpe one to another for that moſt excel<g ref="char:EOLhyphen"/>lent End of advancing his Kingdome, and by that to glorifie him in his Sonne. This is the comfort which <hi>I</hi> beleeve, God intends true Chriſtians by their Union in Marriage, that their joy might ariſe from nothing below himſelfe. And cer<g ref="char:EOLhyphen"/>tainly, none ſuch can have any comfort but in doing the will of their Heavenly Father; and conſequently, they ſhall have comfort in whatſoever is a helpe to that, though it be accom<g ref="char:EOLhyphen"/>panied with never ſo many and great difficulties. Thus then, <hi>I</hi> ſay, wee may gather from Gods intention what our Aime ſhould be in Marriage; namely, Gods Glorie (for upon that our eyes muſt be perpetually fixt as upon the maine ground of all actions:) and ſecondly, as the Meanes to produce that effect, to be a helpe one to another for the advancement of his Kingdome. This in generall ought to be the principall Aime of Chriſtians in Marriage. (As for other things, which though inferiour, yet may have a conſideration in making that Covenant, <hi>I</hi> paſſe them over, well knowing few or none
+<pb n="3" facs="tcp:158568:2"/> but conſiders them ſufficiently) which <hi>I</hi> have here expreſt, that upon that ground <hi>I</hi> might lay downe the particular Rea<g ref="char:EOLhyphen"/>ſons which induced me to Marrie, and thoſe briefly are theſe following.</p>
+            <p>Firſt, <hi>I</hi> conceive, that ordinarily a woman cannot ſerve the advance of Chriſts Kingdome in a ſingle eſtate, ſo well as be<g ref="char:EOLhyphen"/>ing united to a godly Man for the above-mentioned Aimes. For ſurely if ſhe could, God would not have inſtituted that which would prove an impediment to the beſt way of ſerving him.</p>
+            <p>Secondly, <hi>I</hi> ſaw evidently <hi>I</hi> could not. For Marriage was for that End (ſo oft alreadie mentioned) propoſed to me, and more then ordinarie Meanes and Opportunities of ſerving C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſt were made apparent tome, ſuchas the declaring of them would by ſuch as underſtand not ſuch undertakings be judg<g ref="char:EOLhyphen"/>ed) vanitie at leaſt in me, and therefore <hi>I</hi> mention no parti<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ars, but rather ſay, that <hi>I</hi> had long ſince bound my ſelfe to the ſervice of the Members of Chriſt, and from all ſelfe-ſee<g ref="char:EOLhyphen"/>king, as well by a particular vow, as by the ſea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of the Co<g ref="char:EOLhyphen"/>venant which con<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmes Gods mercie to us when wee are found faithfull in giving up our ſelves to live and dye unto God, and not to our ſelves.</p>
+            <p>Laſtly, <hi>I</hi> had ſeene a verie great hand of providence lead<g ref="char:EOLhyphen"/>ing me to Marriage, manifeſted in many ſtrange paſſages and circumſtances, carrying me contrarie to all my owne in<g ref="char:EOLhyphen"/>clinations to what I would faine have reſiſted; and withall I found, God denying me all the other wayes that I propoſed or ſought out for the fulfilling of that which I judged muſt be the End and labour of my whole life, namely, a Living to the ſervice of others without more reſpect unto my ſelfe then what was required to make me fit for that. Thus, <hi>Ma<g ref="char:EOLhyphen"/>dam,</hi> you ſee the ground I went upon in this great change in the manner of my life; in my heart I wiſh, it may be ſo un<g ref="char:EOLhyphen"/>derſtood, that ſome may ſee the neceſſitie and benefit of propoſing Gods G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orie for the maine Aime of all the Actions and circumſtances of thier Lives, that ſo they may be delighted with the knowledge of the excellent Communion
+<pb n="4" facs="tcp:158568:3"/> and Spirituall Workings betweene God and the Soule, which the conſtant performance of this dutie brings unto us even in this life, and that is the worſt I wiſh unto my cenſurers. Now, <hi>Madam,</hi> ſhould <hi>I</hi> ſpeake ſomething in anſwer to the Exceptions made againſt me, <hi>I</hi> feare prolixitie, and yet <hi>I</hi> cannot well omit to tell you, they are not better then car<g ref="char:EOLhyphen"/>nall, and ſuch, as to either Gracious or Morall Men will ſoone be anſwered. They are, <hi>I</hi> perceive, two:</p>
+            <p>Firſt, That <hi>I</hi> Married below my degree.</p>
+            <p>Secondly, That <hi>I</hi> matched neither to a great nor certaine fortune: the laſt <hi>I</hi> confeſſe, the other <hi>I</hi> denie abſolutely; and that <hi>I</hi> may give my Reaſon for what <hi>I</hi> denie, <hi>I</hi> muſt conſi<g ref="char:EOLhyphen"/>der:</p>
+            <p>Firſt, our ſeverall conditions, relating the degrees of honour which God makes betweene Man and Man; and then that which Mans judgement makes of honour. As for the diſtinction of Equalitie or Inequalitie, which God makes betweene man and man; <hi>I</hi> conceive, it is onely made in his intention by the imployment in his owne ſervice which he calls men unto, that Man being inveſted in his eſteeme with the higheſt degree of honour who is moſt truſted by him; and that Man is moſt truſted by him who is moſt immediately in ſubordination to himſelfe, ſet a worke for the effecting of the higheſt End, which he propoſed to himſelfe in the Creation and Redemption of Man. Now, if this be granted a truth, as, I thinke, it muſt be, it will eaſily appeare, that a man, called, qualified, &amp; ſent by God, as his Sons, Ambaſſadour to diſpenſe the Miſteries of Mans ſalvation, that he, I ſay, receives the greateſt truſt from God, and conſequently the imployment which gives him the higheſt degree of honour. This was the Office our Lord Chriſt choſe to execute perſonally, when he refuſed the honour of governing an earthly Kingdome, &amp; ſee<g ref="char:EOLhyphen"/>king rather that which came to him by erecting his Kingdom in the conſciences of men, where ſpiritually he doth indeed raigne as King. By this which I have ſaid, <hi>Madam,</hi> you ſee I judge my ſelfe to have married moſt honourably, although I ſhould confeſſe him to be no Gentleman which the world
+<pb n="5" facs="tcp:158568:3"/> ſo much values; but he cannot be denyed the honour of be<g ref="char:EOLhyphen"/>ing deſcended of both ſides from an ancient Familie, which even in carnall eyes makes an Equalitie at leaſt. For all that he is not come from the Nobilitie immediately, and there<g ref="char:EOLhyphen"/>fore wants the honour of that Titular Greatneſſe, whoſe Originall at the beſt had its riſe but from humane Policie, and its ſuppott from the fooliſh Fancy of Men; certainly the honour of the title of a Lord wil not equall the honour which God hath annexed to his owne Ambaſſadors, neither in reſ<g ref="char:EOLhyphen"/>pect of the Inſtitutor, nor the End of the Inſtitution; the firſt being God himſelf, the End for his Glory, the other, Man, and the End his Glory, betweene which methinks very weake Chriſtians ſhould diſcerne a very vaſt difference: Much might be ſaid on this ſubject, and much more to prove even to rationall men, that there is no ſuch Inequalitie as ſome ima<g ref="char:EOLhyphen"/>gine, but it is not eaſie to fall ſo low in diſcourſe with Chriſti<g ref="char:EOLhyphen"/>ans as to debate things in a bare humane way, ſeeing that is not Gods way, and it is below our priviledge in Chriſti<g ref="char:EOLhyphen"/>anitie.</p>
+            <p>The Second ground of Cenſure, is, that <hi>I</hi> have not ad<g ref="char:EOLhyphen"/>vantaged my ſelfe by getting either a preſent great, or future certaine fortune; It is very true, I have not, nor doe I thinke that the thing in Marriage that was called to aime at (as I have ſaid before) For I believe the inheritance of Gods Children is in Heaven, where we looke to have eternall poſſeſſions, not on earth, and therefore not here wee are commanded to lay up our Treaſure, where we are ſure it ſhall not be permanent, whereas here wee have no abiding place, nor certaintie of any thing in this life, which is not ſpirituall: And this Leſſon God calls loudly our Nation to learne at this very inſtant, and ſurely he hath given me great cauſe in particular to ſtudy to know the duty of living by faith, which if wee did underſtand, we ſhould deſpiſe the reaſonings of fleſh, and blood, and keepe our ſelves in a joyfull conſtant dependencie upon God for unſeene proviſions, both for our ſelvs and poſteritie; neither doe we conſider, that God doth go<g ref="char:EOLhyphen"/>vern
+<pb n="6" facs="tcp:158568:4"/> all his diſpenſations and their circumſtances in ſuch a way as all the wit of Man cannot make any alteration of additions or diminution to them; which it we did, we might aſſure our ſelves, both the quantitie and certaintie of the things of this life is in his hand to give, not in our power to take; or if we had it, not to keepe it. But alas, contrarywiſe, Men looke upon Eſtates, as things which we can make ſure to our ſelves, and judge them then onely great, when there is enough to conſume in the ſatisfying their fooliſh fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ta<g ref="char:EOLhyphen"/>cies by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulfilling all ſinfull appeti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and obſerving every fooliſh ſuperflous cuſtome now taken up in practice, contra<g ref="char:EOLhyphen"/>rie to the humilitie, moderation, and ſimplicitie of the Goſpel; but they that tend to perfection muſt be otherwiſe minded, labouring to ſhake off thoſe fetters that they may be free to worke in Chriſts Kingdome, and able to joy onely in the increaſe of that &amp; his power <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n it. Here, <hi>Madam</hi> you may ſee, worldly Riches were not my Aime, and therefore I have them not, and yet I have enough to keepe me and my chil<g ref="char:EOLhyphen"/>dren from ſeeking neceſſarie <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood by this Match, to the di<g ref="char:EOLhyphen"/>ſtraction of which I might have beene all my life expoſed unto for ought I know, if God had not made Maſter <hi>N.</hi> inſtrumenta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to prevent it: For ſuch who layd my conditi<g ref="char:EOLhyphen"/>on to heart had t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir owne ſtraits as well as I, and therefore I could not depend upon that few number; ſo that in conclu<g ref="char:EOLhyphen"/>ſion, I bleſſe God for his ſeaſonable mercie to me, even in regard of outward proviſion. Let others contemne it as much as they will; that ſhall not take me off from the grati<g ref="char:EOLhyphen"/>tude and value which is due for ſo great a mercie, as by eating bread of mine owne, in theſe miſerable times I en<g ref="char:EOLhyphen"/>joy.</p>
+            <p>I might here tell you, that I could not pay too great a gratitude to Maſter <hi>N.</hi> for his friendſhip to mee and mine, keeping us from extremities, when elſe for a long time we muſt have beene expoſed to it; but your Ladyſhip is no ſtranger to that; and it is an argument (though conſiderable) for my Marriage of an inferiour nature then
+<pb n="7" facs="tcp:158568:4"/> what <hi>I</hi> have related, and willingly <hi>I</hi> cannot love to deſcend in ſuch caſes. And beſides it is not my Aime to Apologize or ſatisfie men to remove their cenſure from my ſelfe (for that <hi>I</hi> can eaſily beare) but to informe thoſe that are offended of my Principles. Therefore <hi>I</hi> will ſhut up this diſcourſe, with humbly begging your conſtant prayers, that <hi>I</hi> may be found faithfull in purſuing the Aime of my Covenant with Maſter <hi>N.</hi> that God may be glorified in, and over all the actions of</p>
+            <closer>
+               <dateline>
+                  <date>5 <hi>May,</hi> New-ſtile, 1645.</date>
+               </dateline>
+               <signed>MADAM,Your Ladyſhips moſt conſtant, faithfull, and humble Servant,</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
